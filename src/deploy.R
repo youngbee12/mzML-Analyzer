@@ -62,9 +62,9 @@ library(rsconnect)
 message("Configuring shinyapps.io account...")
 tryCatch({
   rsconnect::setAccountInfo(
-    name = 'yangzhicheng',
-    token = '2466E6D8F0A9825E6E47ADB05EF47415',
-    secret = 'alVhfaH2fj3CdxemcdPUVG5onCTTyzfKdoGngaZz'
+    name = '',
+    token = '',
+    secret = ''
   )
 }, error = function(e) {
   message("Error setting account info: ", e$message)
@@ -106,7 +106,7 @@ deploy_app <- function() {
     )
     
     message("Application deployed successfully!")
-    message("Your app is available at: https://yangzhicheng.shinyapps.io/mzml-analyzer/")
+   
     
   }, error = function(e) {
     message("Error deploying application: ", e$message)
