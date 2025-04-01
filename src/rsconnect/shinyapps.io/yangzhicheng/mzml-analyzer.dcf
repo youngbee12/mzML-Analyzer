@@ -1,0 +1,10 @@
+name: mzml-analyzer
+title: mzML Analyzer
+username: yangzhicheng
+account: yangzhicheng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14390923
+bundleId: 10034932
+url: https://yangzhicheng.shinyapps.io/mzml-analyzer/
+version: 1
