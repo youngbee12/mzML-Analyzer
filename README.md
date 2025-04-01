@@ -27,7 +27,7 @@ A Shiny application for analyzing mass spectrometry data in mzML format.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/mzml-analyzer.git
+git clone https://github.com/youngbee12/mzML-Analyzer.git
 cd mzml-analyzer
 ```
 
@@ -71,11 +71,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-- Your Name
-- Your Email
+- Zhicheng Yang
+- yangzhicheng@simm.ac.cn
 
 ## Acknowledgments
 
 - The R community
 - Bioconductor project
-- Contributors to the MSnbase and xcms packages 
+- Contributors to the MSnbase and xcms packages
