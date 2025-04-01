@@ -25,9 +25,9 @@ configure_shinyapps <- function(account_name = NULL, token = NULL, secret = NULL
   # Set account info
   tryCatch({
     rsconnect::setAccountInfo(
-      name = 'yangzhicheng',
-      token = '2466E6D8F0A9825E6E47ADB05EF47415',
-      secret = 'alVhfaH2fj3CdxemcdPUVG5onCTTyzfKdoGngaZz'
+      name = '',
+      token = '',
+      secret = ''
     )
     message("Successfully configured shinyapps.io account!")
     
